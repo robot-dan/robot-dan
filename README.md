@@ -1,5 +1,5 @@
 - 👋 Hey, I’m Dan
-- 👀 I’m interested in robotics
+- 👀 I'm a robotics engineer
 - 🌱 This repo has started for a passion project with friends to make the biggest bestest video game ever made
 
 
